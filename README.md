@@ -41,6 +41,27 @@ Saudia is the priciest on average, Etihad the cheapest.
 Most expensive single ticket: London → Mumbai, $8,853 First Class.
 
 ---
+## Charts
+
+**Price Distribution**
+![](reports/price_distribution.png)
+
+**Price vs Distance**
+![](reports/price_vs_distance.png)
+
+**Average Price by Class**
+![](reports/price_by_class.png)
+
+**Average Price by Airline**
+![](reports/price_by_airline.png)
+
+**Booking Window Effect**
+![](reports/price_by_booking_window.png)
+
+**Correlation Matrix**
+![](reports/correlation_heatmap.png)
+
+---
 
 ## Stack
 ```
